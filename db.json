@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "Women"
+    }, 
+    {
+      "id": 2,
+      "category": "Men"
+    },
+    {
+      "id": 3,
+      "category": "Sale"
+    }, 
+    {
+      "id": 4,
+      "category": "New In"
+    },
+    {
+      "id": 5,
+      "category": "Clothing"
+    },
+    {
+      "id": 6,
+      "category": "Shoes"
+    },
+    {
+      "id": 7,
+      "category": "Accessories"
+    }
+   ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "price": "Price 1"
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "price": "Price 2"
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "price": "Price 3"
+    }
+   ],
+  "reviews": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+      {
+      "id": 2,
+      "body": "some comment",
+      "postId": 2
+    },
+      {
+      "id": 3,
+      "body": "some comment",
+      "postId": 3
+    },
+    "account":{
+      "name":"some name"
+    }
+}
